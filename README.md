@@ -1,6 +1,6 @@
 <p align="center">
   <img src="alivatar.png" width="128px">
-<h2 align="center">👋 Hi there! I'm Ali Karagoz</h3>
+<h3 align="center">👋 Hi there! I'm Ali Karagoz</h3>
 <p align="center">
   <a href="https://twitter.com/alikaragoz">Twitter</a> •
   <a href="https://www.linkedin.com/in/alikaragoz">LinkedIn</a> •
