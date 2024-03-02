@@ -9,7 +9,7 @@
 </p>
 
 ---
-✨ I’m an indie developer building apps at [Shapr Lab](https://shaprlab.com) and I’ve been doing iOS development since 2010.
+✨ I’m an iOS developer at [Photoroom](https://photoroom.com) and doing Indie [Shapr Lab](https://shaprlab.com) in my free time.
 
 I love creating delightful experiences through code and design. I previously started [SUPL](https://twitter.com/suplco), a mobile-only e-commerce app. I also happen to be an early contributor to a few successful apps like [Mojo](https://apps.apple.com/us/app/mojo-insta-story-editor/id1434861974), [Quik](https://apps.apple.com/us/app/gopro-quik-video-editor/id561350520) (acquired by GoPro) and [Zenly](https://apps.apple.com/us/app/zenly-your-map-your-people/id838848566) (acquired by Snapchat).
 
